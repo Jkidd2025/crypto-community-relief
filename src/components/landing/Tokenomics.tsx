@@ -18,16 +18,16 @@ const tokenomics = [
     description: "Locked in decentralized exchanges for smooth trading and minimized slippage."
   },
   { 
-    label: "Community Rewards", 
-    value: "15%", 
-    amount: "150M",
+    label: "Community Debt Fund", 
+    value: "20%", 
+    amount: "200M",
     color: "from-green-500 to-emerald-500",
-    description: "Used for staking rewards, referral bonuses, or community events that drive engagement and long-term holding."
+    description: "Used for American debt relief grants to be distributed."
   },
   { 
     label: "Team & Development", 
-    value: "10%", 
-    amount: "100M",
+    value: "5%", 
+    amount: "50M",
     color: "from-yellow-500 to-orange-500",
     description: "Funds ongoing development, smart contract upgrades, and operational overhead. Vested over time to ensure alignment with project success."
   },
