@@ -12,9 +12,9 @@ const taxDistribution = [
     description: "Automatically converted to Bitcoin, providing a robust treasury asset.",
   },
   {
-    title: "Marketing Wallet",
+    title: "Community Debt Fund",
     percentage: "30%",
-    description: "Funds promotional activities and community growth campaigns.",
+    description: "Funds for the community debt relief grants.",
   },
 ];
 
