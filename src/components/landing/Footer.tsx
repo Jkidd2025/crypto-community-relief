@@ -3,6 +3,13 @@ export const Footer = () => {
     <footer className="bg-secondary/50 py-12 px-4">
       <div className="max-w-6xl mx-auto">
         <div className="text-center">
+          <div className="mb-6">
+            <p className="text-sm text-muted-foreground mb-2">Presented by Joshua Kidd</p>
+            <div className="flex justify-center gap-4">
+              <a href="https://x.com/Jkidd2025" target="_blank" rel="noopener noreferrer" className="text-sm text-primary hover:underline">X</a>
+              <a href="https://www.linkedin.com/in/kiddjoshua" target="_blank" rel="noopener noreferrer" className="text-sm text-primary hover:underline">LinkedIn</a>
+            </div>
+          </div>
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} Mark Cuban Crypto Foundation. All rights reserved.
           </p>
