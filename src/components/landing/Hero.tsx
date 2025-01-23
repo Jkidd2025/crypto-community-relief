@@ -10,7 +10,7 @@ export const Hero = () => {
           Mark Cuban Crypto Foundation
         </h1>
         <p className="text-xl md:text-2xl text-muted-foreground mb-8">
-          Leveraging Web3 Technologies to Alleviate American Debt Burdens
+          Leveraging Web3 Technologies to Alleviate American Debts'
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button size="lg" className="group">
